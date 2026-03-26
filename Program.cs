@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿System.Console.WriteLine("Will be Implementing Soon ༼ つ ◕_◕ ༽つ");
