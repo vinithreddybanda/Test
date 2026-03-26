@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Hello, World!");
-System.Console.WriteLine("v");
+System.Console.WriteLine();
