@@ -87,6 +87,21 @@
         System.Console.WriteLine("reference type will be in another branch");
 
 
+        System.Console.WriteLine();
+        System.Console.WriteLine();
+
+        System.Console.WriteLine("BOOL LITERALS");
+        bool ba = true; // no 1
+        bool bb = false; //no 0
+
+        System.Console.WriteLine(ba);
+        System.Console.WriteLine(bb);
+
+        System.Console.WriteLine();
+
+        
+
+
 
 
 

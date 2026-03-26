@@ -28,3 +28,10 @@
 
 # Output
 ![alt text](./images/image.png)
+
+### Bools
+
+- no 0 or 1 
+- only use true or flase
+
+![alt text](/images/bools.png)
